@@ -1,0 +1,161 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="/Dummy.txt" timestamp="1542704037297">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="3" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/BlaBlaWild/app/src/main/AndroidManifest.xml" timestamp="1542358861037">
+        <mark key="[" line="24" column="56" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/BlaBlaWild/app/src/main/java/fr/wcs/blablawild/ItinerarySearchActivity.java" timestamp="1542364761704">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
+      <file name="/a.dummy" timestamp="1542379859049">
+        <mark key="[" line="0" column="4" />
+        <mark key="]" line="0" column="4" />
+        <mark key="." line="0" column="4" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Quetejavaui/app/src/main/java/fr/wcs/quetejavaui/MainActivity.java" timestamp="1542639529203">
+        <mark key="e" line="28" column="28" />
+        <mark key="[" line="84" column="0" />
+        <mark key="]" line="84" column="0" />
+        <mark key="." line="84" column="0" />
+        <mark key="^" line="67" column="32" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Calculator/app/src/main/java/fr/wcs/calculator/MainActivity.java" timestamp="1542703508905">
+        <mark key="[" line="13" column="14" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Quetejavaui/app/src/main/res/layout/activity_main.xml" timestamp="1542373690004">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/BlaBlaWild/app/src/main/res/values/strings.xml" timestamp="1542642630803">
+        <mark key="[" line="9" column="25" />
+        <mark key="]" line="9" column="25" />
+        <mark key="." line="9" column="25" />
+        <mark key="^" line="9" column="25" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Quetejavaui/app/src/main/res/values/colors.xml" timestamp="1542380158526">
+        <mark key="[" line="4" column="44" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/BlaBlaWild/app/src/main/java/fr/wcs/blablawild/MainActivity.java" timestamp="1542361984672">
+        <mark key="[" line="15" column="62" />
+        <mark key="]" line="15" column="63" />
+        <mark key="^" line="15" column="63" />
+        <mark key="." line="15" column="63" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Calculator/app/src/main/res/layout/activity_main.xml" timestamp="1542703008511">
+        <mark key="[" line="16" column="35" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Quetejavaui/app/src/main/res/values/strings.xml" timestamp="1542380237602">
+        <mark key="[" line="2" column="27" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/BlaBlaWild/app/.gitignore" timestamp="1542364995154">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="66" column="17" />
+        <mark key="." line="66" column="17" />
+        <mark key="^" line="66" column="17" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Quetejavaui/.gitignore" timestamp="1542628922771">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="66" column="17" />
+        <mark key="." line="66" column="17" />
+        <mark key="^" line="66" column="17" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/BlaBlaWild/app/src/main/res/layout/activity_itinerary_list.xml" timestamp="1542365129548">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="/fragment.java" timestamp="1542378848891">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/BlaBlaWild/app/src/main/java/fr/wcs/blablawild/ItineraryListActivity.java" timestamp="1542364804045">
+        <mark key="[" line="13" column="74" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="61" column="28" filename="$USER_HOME$/AndroidStudioProjects/Quetejavaui/app/src/main/java/fr/wcs/quetejavaui/MainActivity.java" />
+    </jumps>
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBCdXR0b24gcGFkMSA9IG5ldyBCdXR0b24odGhpcyk7CiAgICB9Cg==</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBCdXR0b24gcGFkMSA9IG5ldyBCdXR0b24odGhpcyk7CiAgICB9Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBCdXR0b24gcGFkMSA9IG5ldyBCdXR0b24odGhpcyk7Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBCdXR0b24gcGFkMSA9IG5ldyBCdXR0b24odGhpcyk7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBCdXR0b24gcGFkMSA9IG5ldyBCdXR0b24odGhpcyk7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBCdXR0b24gcGFkMSA9IG5ldyBCdXR0b24odGhpcyk7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBCdXR0b24gcGFkMSA9IG5ldyBCdXR0b24odGhpcyk7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBCdXR0b24gcGFkMSA9IG5ldyBCdXR0b24odGhpcyk7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBCdXR0b24gcGFkMSA9IG5ldyBCdXR0b24odGhpcyk7Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBCdXR0b24gcGFkMSA9IG5ldyBCdXR0b24odGhpcyk7Cg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+      <register name="-" type="4">
+        <text>8</text>
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search />
+      <history-cmd>
+        <entry>wq</entry>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
