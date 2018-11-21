@@ -23,7 +23,6 @@ public class MainActivity extends AppCompatActivity {
 
         // Parent Layout
         LinearLayout lMainLayout = this.findViewById(R.id.mainLinearLayout);
-        LinearLayout lCbLayout   = new LinearLayout(this);
 
         // Views
         TextView welcome   = new TextView(this);
@@ -53,7 +52,7 @@ public class MainActivity extends AppCompatActivity {
         // Layout
         LinearLayout.LayoutParams lCb = (new LinearLayout.LayoutParams(LinearLayout.LayoutParams.WRAP_CONTENT, LinearLayout.LayoutParams.WRAP_CONTENT));
         lCb.gravity = Gravity.CENTER_HORIZONTAL;
-        lCbLayout.setLayoutParams(lCb);
+        wantTo.setLayoutParams(lCb);
 
         LinearLayout.LayoutParams lTextLayout =
                 new LinearLayout.LayoutParams(
@@ -73,8 +72,7 @@ public class MainActivity extends AppCompatActivity {
 
         // Add View to Parent
         lMainLayout.addView(welcome);
-        lMainLayout.addView(lCbLayout);
-        lCbLayout.addView(wantTo);
+        lMainLayout.addView(wantTo);
         lMainLayout.addView(firstname);
         lMainLayout.addView(lastname);
         lMainLayout.addView(accept);
